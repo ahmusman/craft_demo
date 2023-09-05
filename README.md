@@ -14,6 +14,7 @@ Starting the Server
   $ cd person_server/cmake/build
   $ cmake ../..
   $ make -j 4
+  $ ./person_server
 ```
 
 Starting Client
